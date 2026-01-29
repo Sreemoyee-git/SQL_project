@@ -1,5 +1,8 @@
 # SQL_project
 
+**Here is the dataset link containing the datasets I used in this analysis-
+https://drive.google.com/drive/folders/1vwqGZKlfszIShhfhPWG1cMJOLWhko64f **
+
 Problem Statement
 
 The aim of this project was to analyze Online Shopping Sales data using SQL to uncover meaningful business insights. The main goal was to identify customer behavior, sales trends, product performance, and revenue generation patterns. The project focused on understanding how different factors like customer location, product category, payment methods, and seller performance contribute to overall sales, with the objective of improving profitability and customer retention.
